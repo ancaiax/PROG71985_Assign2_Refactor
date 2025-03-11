@@ -1,0 +1,6 @@
+﻿  GetInput.c
+  GiveOutput.c
+  Source.c
+  Generating Code...
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign2_Refactor\Question 3\GiveOutput.c(16,1): warning C4716: 'giveOutput': must return a value
+  Question 3.vcxproj -> C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign2_Refactor\x64\Debug\Question 3.exe

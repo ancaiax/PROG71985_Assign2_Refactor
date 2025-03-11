@@ -1,0 +1,6 @@
+﻿  InputLimit.c
+  PrintTable.c
+  Source.c
+  Generating Code...
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign2_Refactor\Question 2\PrintTable.c(17,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Question 2.vcxproj -> C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign2_Refactor\x64\Debug\Question 2.exe
